@@ -1,0 +1,13 @@
+2023-08-06 05:32:26.935708 - Initialized conversion of CBT609
+2023-08-06 05:32:27.367968 - Received CBT.V505.FILE609.PDS from FILE609.XMI 
+2023-08-06 05:32:27.370499 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE609.PDS, moved to PDS/$$$#DATE
+2023-08-06 05:32:27.371600 - Found $ACTIVE.txt (text/plain) in CBT.V505.FILE609.PDS, moved to PDS/$ACTIVE
+2023-08-06 05:32:27.372662 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE609.PDS, moved to PDS/$PDSLOAD
+2023-08-06 05:32:27.373685 - Found $RESCUE.txt (text/plain) in CBT.V505.FILE609.PDS, moved to PDS/$RESCUE
+2023-08-06 05:32:27.374675 - Found $RESCU20.txt (text/plain) in CBT.V505.FILE609.PDS, moved to PDS/$RESCU20
+2023-08-06 05:32:27.375614 - Found @FILE609.txt (text/plain) in CBT.V505.FILE609.PDS, moved to PDS/@FILE609
+2023-08-06 05:32:27.376628 - Found ACTIVE.txt (text/plain) in CBT.V505.FILE609.PDS, moved to PDS/ACTIVE
+2023-08-06 05:32:27.377683 - Found RESCUE.txt (text/plain) in CBT.V505.FILE609.PDS, moved to PDS/RESCUE
+2023-08-06 05:32:27.378909 - Found RESCUE20.txt (text/plain) in CBT.V505.FILE609.PDS, moved to PDS/RESCUE20
+2023-08-06 05:32:27.378920 - Found RESCUNEW.bin containing application/octet-stream, moved to PDS/RESCUNEW
+2023-08-06 05:32:27.381442 - Found ZCLONE30.txt (text/plain) in CBT.V505.FILE609.PDS, moved to PDS/ZCLONE30
